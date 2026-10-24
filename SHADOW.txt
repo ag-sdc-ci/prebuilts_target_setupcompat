@@ -1,0 +1,5 @@
+# Shadow repository for setupcompat
+Package: ext-setupcompat
+Target: prebuilts/target/external/setupcompat
+Type: Extractive APEX / Android Library Shadow
+Upstream Tag: android-14.0.0_r74
